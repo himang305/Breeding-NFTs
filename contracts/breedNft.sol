@@ -14,7 +14,7 @@ import "@openzeppelin/contracts/utils/cryptography/MerkleProof.sol";
 // importing uri storage contract
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
 
-contract calyptusmonContract is
+contract breedNftContract is
     ERC721,
     Ownable,
     ReentrancyGuard,
