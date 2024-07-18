@@ -1,0 +1,16 @@
+{
+  "description": "\"Hunters\" are the playable non-fungible tokens ",
+  "external_url": "https://boomland.io",
+  "image": "https://static.vecteezy.com/system/resources/thumbnails/027/254/720/small_2x/colorful-ink-splash-on-transparent-background-png.png",
+  "name": "Genesis Custom NFTs",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Imp Master"
+    },
+    {
+      "trait_type": "Attack Speed",
+      "value": "1.07"
+    }
+  ]
+}
